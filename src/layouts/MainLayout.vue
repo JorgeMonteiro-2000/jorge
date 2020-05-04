@@ -11,6 +11,7 @@
           @click="leftDrawerOpen = !leftDrawerOpen"
         />
       </q-toolbar>
+	  
       <q-img
         src="statics/backup.jpg"
         class="header-image absolute-top" />
